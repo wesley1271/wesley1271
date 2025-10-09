@@ -28,17 +28,15 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=wesley1271&theme=gotham&show_icons=true&hide_border=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley1271&theme=gotham&hide_border=false" />
-    </td>
-  </tr>
-</table>
+  
+   
+
 
 ###
-<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&theme=gotham&show_icons=true&hide_border=false&layout=compact" 
     alt="Top Languages"
     width="400" />
-</p>
+  </td>
+  </tr>
+</table>
