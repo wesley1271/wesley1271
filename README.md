@@ -46,9 +46,9 @@ Landing page para assistente virtual de saúde, com foco em UI/UX, hierarquia vi
 
 ## 📊 Estatísticas
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wesley1271&theme=gotham&show_icons=true&hide_border=false&count_private=false" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wesley1271&theme=tokyonight&border_radius=8" height="220" />
+</div>>
 
 ---
 
