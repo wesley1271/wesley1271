@@ -20,3 +20,4 @@ jobs:
             ./output/pacman-contribution-graph-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # test
