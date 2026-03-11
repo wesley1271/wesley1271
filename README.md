@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Wesley Carvalho Romano
+# 👋 Olá, eu sou o Wesley Carvalho
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Técnico em Informática (ETEC)  
@@ -44,13 +44,6 @@ Landing page para assistente virtual de saúde, com foco em UI/UX, hierarquia vi
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wesley1271&theme=tokyonight&border_radius=8" height="220" />
-</div>>
-
----
 
 ## 📫 Contato
 
