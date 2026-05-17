@@ -11,7 +11,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Técnico em Informática (ETEC)
 🚀 Desenvolvedor com foco em Front-End, mas com base sólida em lógica, back-end e estruturação de sistemas
-🏢 Desenvolvedor na @datadike
+
 
 ---
 
