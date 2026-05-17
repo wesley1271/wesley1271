@@ -23,15 +23,6 @@
 
 </td>
 
-<td align="center" valign="middle" style="border:none;">
-
-<img 
-  src="https://img.shields.io/badge/%40datadike-000000?style=for-the-badge&logoColor=white"
-/>
-
-</td>
-</tr>
-</table>
 
 </div>
 <p align="center">
