@@ -12,21 +12,26 @@
 
 
 <p align="center">
-  <a href="https://github.com/datadike">
+  <a href="https://github.com/datadike" style="text-decoration: none;">
     <img 
       src="https://github.com/datadike.png" 
-      width="48"
+      width="50"
+      align="center"
       style="
         border-radius:50%;
         border:2px solid #3b82f6;
-        vertical-align:middle;
+        vertical-align: middle;
+      "
+    />
+    <img 
+      src="https://img.shields.io/badge/%40datadike-0f172a?style=flat-square&logoColor=38bdf8"
+      align="center"
+      style="
+        vertical-align: middle;
+        margin-left: 6px;
       "
     />
   </a>
-
-  <sub>
-    <strong>@datadike</strong>
-  </sub>
 </p>
 
 <p align="center">
