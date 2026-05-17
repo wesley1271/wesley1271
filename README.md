@@ -9,31 +9,44 @@
  
 <div align="center">
 
-<a href="https://github.com/datadike" style="text-decoration:none; color:black;">
-
 <table>
 <tr>
 <td align="center" valign="middle">
 
-<img 
-  src="https://github.com/datadike.png"
-  width="48"
-  style="border-radius:50%; border:2px solid #3b82f6;"
-/>
+<a href="https://github.com/datadike">
+  <img 
+    src="https://github.com/datadike.png"
+    width="48"
+    style="border-radius:50%; border:2px solid #3b82f6;"
+  />
+</a>
 
 </td>
 
 <td align="center" valign="middle">
 
-<strong style="color:#000000;">@datadike</strong>
+<a 
+  href="https://github.com/datadike"
+  style="text-decoration:none;"
+>
+  <img 
+    src="https://img.shields.io/badge/%40datadike-000000?style=for-the-badge&logoColor=white"
+  />
+</a>
 
 </td>
 </tr>
 </table>
 
-</a>
-
 </div>
+
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
 <p align="center">
   <img 
