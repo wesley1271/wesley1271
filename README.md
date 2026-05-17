@@ -15,7 +15,7 @@
 
 <p align="center">
   <img 
-    width="120" 
+    width="600" 
     height="1"
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
