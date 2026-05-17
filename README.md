@@ -1,7 +1,11 @@
-<h1 align="center">Wesley Carvalho</h1>
-
 <p align="center">
-  <strong>Front-End Developer</strong>
+  <span style="font-size: 38px; font-weight: 700;">
+    Wesley Carvalho
+  </span>
+  <br>
+  <span style="font-size: 18px;">
+    Front-End Developer
+  </span>
 </p>
 <p align="center">
   <img
