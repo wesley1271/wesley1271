@@ -38,9 +38,7 @@
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
-</p>
+
 
 <div align="center">
 
