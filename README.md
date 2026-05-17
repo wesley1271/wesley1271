@@ -55,7 +55,7 @@
 
 ```bash
 > turning coffee into modern interfaces_
-</div> ```
+ ```
 
 `React` • `Vue.js` • `UI/UX` • `Arquitetura Front-End` • `Componentização`
 
