@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-</div>
+
 
 <p align="center">
   <img 
@@ -43,7 +43,7 @@
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
 </p>
-
+</div>
 <p align="center">
   <img 
     width="600" 
