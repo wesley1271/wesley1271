@@ -85,11 +85,16 @@ Landing page moderna para assistente virtual de saúde com foco em UI/UX e ident
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=wesley1271&show_icons=true&theme=gotham&hide_border=true" 
-    height="180"
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=wesley1271&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=cbd5e1"
   />
 
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=cbd5e1"
+  />
+</p>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&theme=gotham&hide_border=true&layout=compact" 
     height="180"
