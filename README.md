@@ -8,6 +8,14 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/datadike">
+    <img 
+      src="https://img.shields.io/badge/Developer%20at-@datadike-111827?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=020617&color=0F172A" 
+      alt="@datadike"
+    />
+  </a>
+</p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Técnico em Informática (ETEC)
 🚀 Desenvolvedor com foco em Front-End, mas com base sólida em lógica, back-end e estruturação de sistemas
