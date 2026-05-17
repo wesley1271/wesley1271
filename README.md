@@ -26,6 +26,15 @@
   />
 </p>
 
+<div align="center">
+
+### ✦ Technologies I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,html,css,tailwind,figma,git,ps&theme=dark" />
+</p>
+
+</div>
 <p align="center">
   <img 
     width="600" 
