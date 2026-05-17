@@ -12,11 +12,22 @@
 
 <p align="center">
   <a href="https://github.com/datadike">
-    <img
-      src="https://github-readme-badge.vercel.app/api?id=datadike"
-      alt="@datadike"
+    <img 
+      src="https://github.com/datadike.png" 
+      width="80"
+      style="
+        border-radius:50%;
+        border:2px solid #38bdf8;
+        box-shadow:0 0 15px #38bdf8;
+      "
     />
   </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://img.shields.io/badge/@datadike-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"
+  />
 </p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Técnico em Informática (ETEC)
