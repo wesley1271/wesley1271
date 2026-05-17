@@ -9,9 +9,11 @@
  
 <div align="center">
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" valign="middle">
+<td align="center" valign="middle" border="0">
 
 <a href="https://github.com/datadike">
   <img 
@@ -21,39 +23,19 @@
   />
 </a>
 
+</td>
 
+<td align="center" valign="middle" border="0">
 
-<td align="center" valign="middle">
-
-  <img 
-    src="https://img.shields.io/badge/%40datadike-000000?style=for-the-badge&logoColor=white"
-  />
-</a>
+<img 
+  src="https://img.shields.io/badge/%40datadike-000000?style=for-the-badge&logoColor=white"
+/>
 
 </td>
 </tr>
 </table>
 
-
-
-<p align="center">
-  <img 
-    width="600" 
-    height="1"
-    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
-  />
-</p>
 </div>
-<p align="center">
-  <img 
-    width="600" 
-    height="1"
-    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
-  />
-</p>
-
-</div>
-
 <p align="center">
   <img 
     width="600" 
