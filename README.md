@@ -1,11 +1,9 @@
 <div align="center">
-  <span style="font-size: 38px; font-weight: 700;">
-    Wesley Carvalho
-  </span>
-  <br>
-  <span style="font-size: 18px; color: #94a3b8;">
-    Front-End Developer
-  </span>
+
+# Wesley Carvalho
+<sub>Front-End Developer</sub>
+
+</div>
 </div>
 </div>
 <p align="center">
