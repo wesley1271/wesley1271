@@ -38,12 +38,9 @@
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
 </p>
-
-
-<div align="center">
-
-### 🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
+</p>
 
 <p align="center">
   <img 
@@ -52,9 +49,11 @@
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
-</p>
+### 🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
+
+
+
+
 Desenvolvedor apaixonado por interfaces modernas, responsivas e centradas na experiência do usuário.
 
 Experiência com aplicações web, componentização, integração front-end/back-end e estruturação de sistemas escaláveis.
