@@ -1,8 +1,8 @@
-<h1 align="center">Wesley Carvalho<br> Front-End Developer</h1>
-
-<p align="center">
+<h1 align="center">Wesley Carvalho<br> <p align="center">
  
-</p>
+Front-End Developer</p></h1>
+
+
 
 <p align="center">
   <img
