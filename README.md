@@ -42,13 +42,23 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
 
-🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
+<div align="center">
 
-Sou apaixonado por desenvolvimento de interfaces modernas, responsivas e centradas na experiência do usuário.  
-Tenho experiência com aplicações web, componentização, integração front-end/back-end e estruturação de sistemas escaláveis.
+### 🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
 
-Atualmente aprofundando conhecimentos em:
-`React` • `Vue.js` • `UI/UX` • `Arquitetura Front-End` • `Boas práticas`
+Desenvolvedor apaixonado por interfaces modernas, responsivas e centradas na experiência do usuário.
+
+Experiência com aplicações web, componentização, integração front-end/back-end e estruturação de sistemas escaláveis.
+
+</div>
+
+<br>
+
+<div align="center">
+
+`React` • `Vue.js` • `UI/UX` • `Arquitetura Front-End` • `Componentização`
+
+</div>
 
 ---
 
