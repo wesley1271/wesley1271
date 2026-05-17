@@ -25,10 +25,6 @@
 
 <td align="center" valign="middle">
 
-<a 
-  href="https://github.com/datadike"
-  style="text-decoration:none;"
->
   <img 
     src="https://img.shields.io/badge/%40datadike-000000?style=for-the-badge&logoColor=white"
   />
