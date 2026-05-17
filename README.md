@@ -140,4 +140,4 @@ Modern landing page designed for a virtual healthcare assistant with focus on UI
 
 ```bash
 > building modern web experiences_
-</div> <p align="center">   ```
+  ```
