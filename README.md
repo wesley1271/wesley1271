@@ -7,39 +7,33 @@
   />
 </p>
  
-<p align="center">
-  <a 
-    href="https://github.com/datadike"
-    style="
-      text-decoration:none;
-      border:1px solid #1e293b;
-      border-radius:12px;
-      padding:10px 16px;
-      display:inline-block;
-    "
-  >
-    <img 
-      src="https://github.com/datadike.png"
-      width="48"
-      style="
-        border-radius:50%;
-        border:2px solid #3b82f6;
-        vertical-align:middle;
-      "
-    />
+<div align="center">
 
-&nbsp;
+<a href="https://github.com/datadike">
 
-<strong style="
-  font-size:16px;
-  color:#cbd5e1;
-  vertical-align:middle;
-">
-  @datadike
-</strong>
+<table>
+<tr>
+<td align="center" valign="middle">
 
-  </a>
-</p>
+<img 
+  src="https://github.com/datadike.png"
+  width="48"
+  style="border-radius:50%; border:2px solid #3b82f6;"
+/>
+
+</td>
+
+<td align="center" valign="middle">
+
+<strong>@datadike</strong>
+
+</td>
+</tr>
+</table>
+
+</a>
+
+</div>
 
 <p align="center">
   <img 
