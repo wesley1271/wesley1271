@@ -9,12 +9,17 @@
     alt="Typing SVG"
   />
 </p>
-<hr>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
 
-<br>
+<p align="center">
+  <img 
+    width="120" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
 <p align="center">
   <a href="https://github.com/datadike">
@@ -23,13 +28,12 @@
       width="80"
       style="
         border-radius:50%;
-        border:2px solid #38bdf8;
-        box-shadow:0 0 15px #38bdf8;
+        border:2px solid #3b82f6;
+        box-shadow:0 0 12px #3b82f688;
       "
     />
   </a>
 </p>
-
 <p align="center">
   <img 
     src="https://img.shields.io/badge/@datadike-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"
