@@ -50,18 +50,20 @@
   />
 </p
   
-### 🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
 
+<div align="center">
 
-Desenvolvedor apaixonado por interfaces modernas, responsivas e centradas na experiência do usuário.
+### 🚀 Front-End Developer
 
-Experiência com aplicações web, componentização, integração front-end/back-end e estruturação de sistemas escaláveis.
+Interfaces modernas, componentização e experiências digitais responsivas.
 
-</div>
+Construindo aplicações web com foco em performance, organização e UI/UX.
 
 <br>
 
-<div align="center">
+`React` • `Vue.js` • `TypeScript` • `UI/UX` • `Componentização`
+
+</div>
 
 `React` • `Vue.js` • `UI/UX` • `Arquitetura Front-End` • `Componentização`
 
