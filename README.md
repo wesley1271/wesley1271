@@ -6,9 +6,7 @@
     alt="Typing SVG"
   />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
-</p>
+
 
 <p align="center">
   <img 
@@ -36,6 +34,10 @@
   <img 
     src="https://img.shields.io/badge/%40datadike-0f172a?style=for-the-badge&logoColor=38bdf8"
   />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Técnico em Informática (ETEC)
