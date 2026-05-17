@@ -48,7 +48,8 @@
     height="1"
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
-</p>
+</p
+  
 ### 🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
 
 
