@@ -11,12 +11,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/datadike">
-    <img 
-      src="https://img.shields.io/badge/@datadike-0f172a?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=111827" 
-      alt="@datadike"
-    />
-  </a>
+  <img 
+    src="https://img.shields.io/badge/@datadike-18181B?style=flat-square&logo=github&logoColor=22d3ee" 
+  />
 </p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Técnico em Informática (ETEC)
