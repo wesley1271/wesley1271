@@ -9,9 +9,13 @@
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
+</p>
+
+<p align="center">
   <a href="https://github.com/datadike">
     <img 
-      src="https://img.shields.io/badge/Developer%20at-@datadike-111827?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=020617&color=0F172A" 
+      src="https://img.shields.io/badge/@datadike-0f172a?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=111827" 
       alt="@datadike"
     />
   </a>
