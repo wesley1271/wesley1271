@@ -41,57 +41,34 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Técnico em Informática (ETEC)
-🚀 Desenvolvedor com foco em Front-End, mas com base sólida em lógica, back-end e estruturação de sistemas
 
+🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
 
----
+Sou apaixonado por desenvolvimento de interfaces modernas, responsivas e centradas na experiência do usuário.  
+Tenho experiência com aplicações web, componentização, integração front-end/back-end e estruturação de sistemas escaláveis.
 
-## 🧠 Sobre mim
-
-Sou apaixonado por tecnologia e desenvolvimento de software.
-Busco criar aplicações organizadas, funcionais e centradas na experiência do usuário.
-
-Tenho experiência com desenvolvimento web, estruturação de interfaces responsivas, versionamento com Git e integração entre front-end e back-end.
-
-Atualmente estou aprofundando meus conhecimentos em:
-
-* React / React Native
-* Vue.js
-* Arquitetura de aplicações
-* Boas práticas de código e componentização
-* UI/UX Design
+Atualmente aprofundando conhecimentos em:
+`React` • `Vue.js` • `UI/UX` • `Arquitetura Front-End` • `Boas práticas`
 
 ---
 
-## 💻 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-</p>
-
----
-
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
 ### 🔹 Showboard
-
-Aplicação web com sistema de autenticação, organização de conteúdo e integração entre front-end e regras de negócio.
-Foco em responsividade, organização de componentes e experiência do usuário.
+Aplicação web com autenticação, organização de conteúdo e foco em componentização, responsividade e experiência do usuário.
 
 ### 🔹 Neo Florence
+Landing page moderna para assistente virtual de saúde com foco em UI/UX e identidade visual.
 
-Landing page para assistente virtual de saúde, com foco em UI/UX, hierarquia visual e identidade digital moderna.
+---
+
+## 📈 Contribuições
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wesley1271&theme=github-compact&hide_border=true&bg_color=0f172a&color=3b82f6&line=3b82f6&point=60a5fa"
+  />
+</p>
 
 ---
 
@@ -103,32 +80,29 @@ Landing page para assistente virtual de saúde, com foco em UI/UX, hierarquia vi
     height="180"
   />
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&theme=gotham&show_icons=true&hide_border=true&layout=compact" 
- height="180"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&theme=gotham&hide_border=true&layout=compact" 
+    height="180"
+  />
 </p>
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wesley0608romano@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=3b82f6">
   </a>
 
   <a href="https://www.linkedin.com/in/-wesley-carvalho-/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=120&section=footer"/>
 </p>
-
-✨ Sempre aberto a novas oportunidades e colaborações.
 
