@@ -11,18 +11,14 @@
   <img 
     src="https://github.com/datadike.png"
     width="48"
-    style="border-radius:50%; border:2px solid #3b82f6;"
-  /> <strong>@datadike</strong>
-</p>
-<p align="center">
-  <img 
-    width="600" 
-    height="1"
-    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+    align="center"
+    style="
+      border-radius:50%;
+      border:2px solid #3b82f6;
+    "
   />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
+  &nbsp;
+  <strong style="font-size:16px;">@datadike</strong>
 </p>
 
 <p align="center">
