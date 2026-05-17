@@ -21,6 +21,7 @@
 <p align="center">
   <a href="https://github.com/datadike">
     <img 
+      src="https://github.com/datadike.png" 
       width="80"
       style="
         border-radius:50%;
@@ -30,9 +31,10 @@
     />
   </a>
 </p>
+
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/@datadike-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"
+    src="https://img.shields.io/badge/%40datadike-0f172a?style=for-the-badge&logoColor=38bdf8"
   />
 </p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
