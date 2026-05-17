@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Wesley Carvalho
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Front-End+Developer;Criando+interfaces+modernas+e+funcionais;Focado+em+UI%2FUX+e+experi%C3%AAncia+do+usu%C3%A1rio" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Front-End+Developer;Criando+interfaces+modernas+e+funcionais;Focado+em+UI%2FUX+e+experi%C3%AAncia+do+usu%C3%A1rio"
+    alt="Typing SVG"
   />
 </p>
 
