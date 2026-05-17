@@ -9,11 +9,9 @@
  
 <div align="center">
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" valign="middle" border="0">
+<table style="border:none;">
+<tr style="border:none;">
+<td align="center" valign="middle" style="border:none;">
 
 <a href="https://github.com/datadike">
   <img 
@@ -25,7 +23,7 @@
 
 </td>
 
-<td align="center" valign="middle" border="0">
+<td align="center" valign="middle" style="border:none;">
 
 <img 
   src="https://img.shields.io/badge/%40datadike-000000?style=for-the-badge&logoColor=white"
