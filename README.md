@@ -9,10 +9,6 @@
  
 <div align="center">
 
-<table style="border:none;">
-<tr style="border:none;">
-<td align="center" valign="middle" style="border:none;">
-
 <a href="https://github.com/datadike">
   <img 
     src="https://github.com/datadike.png"
@@ -20,9 +16,6 @@
     style="border-radius:50%; border:2px solid #3b82f6;"
   />
 </a>
-
-</td>
-
 
 </div>
 <p align="center">
