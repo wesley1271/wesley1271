@@ -140,4 +140,4 @@ Modern landing page designed for a virtual healthcare assistant with focus on UI
 
 ```bash
 > building modern web experiences_
-</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=120&section=footer"/> </p> ```
+</div> <p align="center">   ```
