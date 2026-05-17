@@ -8,22 +8,12 @@
 </p>
  
 <p align="center">
-  <a href="https://github.com/datadike" style="text-decoration: none;">
-    <img 
-      src="https://github.com/datadike.png" 
-      width="48"
-      align="center"
-      style="
-        border-radius:50%;
-        border:2px solid #3b82f6;
-      "
-    />
-  </a>
-  <code style="font-size: 16px; font-weight: 700;">
-    @datadike
-  </code>
+  <img 
+    src="https://github.com/datadike.png"
+    width="48"
+    style="border-radius:50%; border:2px solid #3b82f6;"
+  /> <strong>@datadike</strong>
 </p>
-
 <p align="center">
   <img 
     width="600" 
