@@ -9,7 +9,7 @@
  
 <div align="center">
 
-<a href="https://github.com/datadike">
+<a href="https://github.com/datadike" style="text-decoration:none; color:black;">
 
 <table>
 <tr>
@@ -25,13 +25,23 @@
 
 <td align="center" valign="middle">
 
-<b><code style="color:black;">@datadike</code></b>
+<strong style="color:#000000;">@datadike</strong>
 
 </td>
 </tr>
 </table>
 
 </a>
+
+</div>
+
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
 </div>
 
