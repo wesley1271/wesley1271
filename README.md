@@ -1,12 +1,9 @@
-<p align="center">
-  <span style="font-size: 38px; font-weight: 700;">
-    Wesley Carvalho
-  </span>
-  <br>
-  <span style="font-size: 18px;">
-    Front-End Developer
-  </span>
-</p>
+<div align="center">
+
+# Wesley Carvalho
+### Front-End Developer
+
+</div>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=850&lines=Front-End+Developer;Criando+interfaces+modernas+e+funcionais;Focado+em+UI%2FUX+e+experi%C3%AAncia+do+usu%C3%A1rio"
