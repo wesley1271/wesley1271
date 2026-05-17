@@ -54,19 +54,31 @@
 
 </div>
 
----
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
-## 🚀 Projetos
+## ✦ Featured Projects
 
 ### 🔹 Showboard
-Aplicação web com autenticação, organização de conteúdo e foco em componentização, responsividade e experiência do usuário.
+Web application focused on authentication, component organization and responsive interfaces.
 
 ### 🔹 Neo Florence
-Landing page moderna para assistente virtual de saúde com foco em UI/UX e identidade visual.
+Modern landing page designed for a virtual healthcare assistant with focus on UI/UX and visual identity.
 
----
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
-## 📈 Contribuições
+## ✦ Contribution Activity
 
 <p align="center">
   <img 
@@ -74,20 +86,37 @@ Landing page moderna para assistente virtual de saúde com foco em UI/UX e ident
   />
 </p>
 
----
+<div align="center">
 
-<td width="50%" align="center">
+`consistent commits` • `frontend projects` • `ui experiments`
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&layout=compact&theme=github_dark&hide_border=true"
-/>
+</div>
 
-</td>
-</tr>
-</table>
----
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
-## 📫 Contato
+## ✦ Most Used Technologies
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1271&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
+
+## ✦ Let's Connect
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wesley0608romano@gmail.com">
@@ -99,9 +128,16 @@ Landing page moderna para assistente virtual de saúde com foco em UI/UX e ident
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=120&section=footer"/>
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
 </p>
 
+<div align="center">
+
+```bash
+> building modern web experiences_
+</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=120&section=footer"/> </p> ```
