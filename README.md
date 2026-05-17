@@ -25,7 +25,7 @@
 
 <td align="center" valign="middle">
 
-<strong>@datadike</strong>
+<b><code style="color:black;">@datadike</code></b>
 
 </td>
 </tr>
@@ -34,6 +34,14 @@
 </a>
 
 </div>
+
+<p align="center">
+  <img 
+    width="600" 
+    height="1"
+    src="https://img.shields.io/badge/-3b82f6?style=flat-square"
+  />
+</p>
 
 <p align="center">
   <img 
