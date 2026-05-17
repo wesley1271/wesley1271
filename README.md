@@ -15,7 +15,7 @@
   <a href="https://github.com/datadike">
     <img 
       src="https://github.com/datadike.png" 
-      width="60"
+      width="70"
       style="
         border-radius:50%;
         border:2px solid #3b82f6;
