@@ -53,8 +53,6 @@
 ### 🎓 ADS Student • 💻 IT Technician • 🚀 Front-End Developer
 
 
-
-
 Desenvolvedor apaixonado por interfaces modernas, responsivas e centradas na experiência do usuário.
 
 Experiência com aplicações web, componentização, integração front-end/back-end e estruturação de sistemas escaláveis.
