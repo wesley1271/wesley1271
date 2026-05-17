@@ -7,32 +7,21 @@
   />
 </p>
  
-
-
-
-
 <p align="center">
-  <a href="https://github.com/datadike">
+  <a href="https://github.com/datadike" style="text-decoration: none;">
     <img 
       src="https://github.com/datadike.png" 
       width="48"
+      align="center"
       style="
         border-radius:50%;
         border:2px solid #3b82f6;
-        vertical-align:middle;
       "
     />
   </a>
-  
-  <span style="
-    vertical-align: middle;
-    font-size: 15px;
-    font-weight: 600;
-    color: #94a3b8;
-    margin-left: 6px;
-  ">
+  <code style="font-size: 16px; font-weight: 700;">
     @datadike
-  </span>
+  </code>
 </p>
 
 <p align="center">
