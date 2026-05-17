@@ -2,7 +2,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=850&lines=Front-End+Developer;Criando+interfaces+modernas+e+funcionais;Focado+em+UI%2FUX+e+experi%C3%AAncia+do+usu%C3%A1rio"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=850&lines=Front-End+Developer;Criando+interfaces+modernas+e+funcionais;Focado+em+UI%2FUX+e+responsividade"
+    alt="Typing SVG"
+  />
+</p>
     alt="Typing SVG"
   />
 </p>
