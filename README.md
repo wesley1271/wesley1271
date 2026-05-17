@@ -8,17 +8,22 @@
 </p>
  
 <p align="center">
-  <img 
-    src="https://github.com/datadike.png"
-    width="48"
-    align="center"
-    style="
-      border-radius:50%;
-      border:2px solid #3b82f6;
-    "
-  />
-  &nbsp;
-  <strong style="font-size:16px;">@datadike</strong>
+  <a href="https://github.com/datadike">
+    <img 
+      src="https://github.com/datadike.png"
+      width="48"
+      style="
+        border-radius:50%;
+        border:2px solid #3b82f6;
+        padding:4px;
+        background:#0f172a;
+      "
+    />
+    &nbsp;
+    <img 
+      src="https://img.shields.io/badge/%40datadike-111827?style=for-the-badge&logoColor=3b82f6"
+    />
+  </a>
 </p>
 
 <p align="center">
@@ -27,7 +32,7 @@
     height="1"
     src="https://img.shields.io/badge/-3b82f6?style=flat-square"
   />
-</p
+</p>
   
 
 <div align="center">
