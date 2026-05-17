@@ -11,15 +11,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/datadike" target="_blank">
+  <a href="https://github.com/datadike">
     <img
-      src="https://github.com/datadike.png"
-      width="90"
-      style="border-radius:50%; border:3px solid #00F7FF; padding:4px;"
-    />
-    <br/>
-    <img
-      src="https://img.shields.io/badge/%40datadike-111827?style=for-the-badge&logo=github&logoColor=00F7FF"
+      src="https://github-readme-badge.vercel.app/api?id=datadike"
+      alt="@datadike"
     />
   </a>
 </p>
