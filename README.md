@@ -8,9 +8,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
-</p>
+<br>
 
 <p align="center">
   <a href="https://github.com/datadike">
