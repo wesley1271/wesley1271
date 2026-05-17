@@ -10,7 +10,7 @@
     alt="Typing SVG"
   />
 </p>
-
+<hr>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,git,figma,vue,ps&theme=dark" />
 </p>
