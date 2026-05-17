@@ -53,17 +53,9 @@
 
 <div align="center">
 
-### 🚀 Front-End Developer
-
-Interfaces modernas, componentização e experiências digitais responsivas.
-
-Construindo aplicações web com foco em performance, organização e UI/UX.
-
-<br>
-
-`React` • `Vue.js` • `TypeScript` • `UI/UX` • `Componentização`
-
-</div>
+```bash
+> turning coffee into modern interfaces_
+</div> ```
 
 `React` • `Vue.js` • `UI/UX` • `Arquitetura Front-End` • `Componentização`
 
