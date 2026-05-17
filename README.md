@@ -6,9 +6,7 @@
     alt="Typing SVG"
   />
 </p>
-    alt="Typing SVG"
-  />
-</p>
+ 
 
 
 
