@@ -21,7 +21,6 @@
 <p align="center">
   <a href="https://github.com/datadike">
     <img 
-      src="https://github.com/datadike.png" 
       width="80"
       style="
         border-radius:50%;
